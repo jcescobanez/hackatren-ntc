@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1044430060544",
+    "firebase_url": "https://cloudyyy-b5061.firebaseio.com",
+    "project_id": "cloudyyy-b5061",
+    "storage_bucket": "cloudyyy-b5061.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044430060544:android:c4f0c9f7c7fdef4d",
+        "android_client_info": {
+          "package_name": "com.example.lupos.cloudmessagingtry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044430060544-s556tu5m2a2m4lsf3hv0cghterjgpphv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Y0NXpN5aGH6-kIeRaXQmnlotw_YkGJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044430060544:android:f5c1e15b2667bad6",
+        "android_client_info": {
+          "package_name": "com.example.lupos.cloudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044430060544-s556tu5m2a2m4lsf3hv0cghterjgpphv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Y0NXpN5aGH6-kIeRaXQmnlotw_YkGJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
